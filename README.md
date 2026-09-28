@@ -1,16 +1,89 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Felipe Cortez 👋</h1>
 
-<!--
-**OnurynFFc/OnurynFFc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Dados · Automação · Desenvolvimento de Software</strong><br>
+  Conecto código, dados e visão de negócio para transformar problemas reais em soluções digitais.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://felipecortez.dev.br/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-18211B?style=for-the-badge" alt="Visite meu portfólio"></a>
+  <a href="https://www.linkedin.com/in/felipecortez-204438237/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="Conecte-se comigo no LinkedIn"></a>
+  <a href="mailto:felipe06cortez@gmail.com"><img src="https://img.shields.io/badge/E--mail-2B4332?style=for-the-badge" alt="Entre em contato por e-mail"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+Sou estudante de **Ciência da Computação na UNIP**, com formação técnica em Informática e foco em **Ciência de Dados, Inteligência Artificial e Engenharia de Software**. Gosto de entender como os processos funcionam e construir soluções que tornem o trabalho mais simples, confiável e orientado por informação.
+
+Na minha atuação no **Grupo Sabedoria**, aplico Python, SQL e Power BI a desafios da operação logística: tratamento de dados, automação de rotinas e acompanhamento de indicadores. Essa vivência aproxima meus estudos de problemas reais de negócio.
+
+- 📍 São José dos Campos, SP — Brasil.
+- 🎓 Graduação em Ciência da Computação em andamento, com conclusão prevista para 2028.
+- 📊 Experiência prática com dashboards, pipelines de ETL e automação de relatórios.
+- 🌱 Aprofundando meus estudos em estatística, Machine Learning e visão computacional.
+- 💼 Em busca de oportunidade de estágio em Ciência de Dados.
+
+## Arsenal técnico
+
+Tecnologias que utilizo em atividades profissionais, projetos e estudos:
+
+| Área | Tecnologias e conhecimentos |
+| --- | --- |
+| **Dados e automação** | Python, Pandas, NumPy, Seaborn, ETL e análise de dados |
+| **Business Intelligence** | Power BI, Power Query, dashboards e KPIs |
+| **Bancos de dados** | SQL, MySQL e SQL Server |
+| **Backend e APIs** | Java, Spring Boot, JPA, C#, .NET, Node.js e APIs REST |
+| **Interfaces web** | HTML, CSS, JavaScript e React |
+| **Outras linguagens** | Kotlin e C++ |
+| **Fundamentos** | Programação orientada a objetos, MVC, modelagem de dados e Scrum |
+
+## Da operação ao código
+
+Meu trabalho e meus estudos se conectam em três frentes:
+
+**Dados que apoiam decisões**  
+Construção de dashboards no Power BI para acompanhar indicadores logísticos e tornar as informações operacionais mais acessíveis.
+
+**Automação de tarefas recorrentes**  
+Desenvolvimento de rotinas com Python e Power Query para extrair, limpar e transformar dados usados em relatórios.
+
+**Software para problemas reais**  
+Desenvolvimento e estudo de aplicações, bancos relacionais e APIs, com atenção à organização do código e à facilidade de manutenção.
+
+## Experiência
+
+**Grupo Sabedoria — Auxiliar de Logística / Análise de Dados**  
+*2026 — atual*
+
+- Desenvolvimento e manutenção de dashboards gerenciais no Power BI.
+- Construção e otimização de pipelines de ETL com Python e Power Query.
+- Mapeamento de fluxos logísticos, automação de rotinas e acompanhamento de KPIs.
+
+**Betun & Alves Advogados — Auxiliar Administrativo**  
+*2024 — 2026*
+
+- Organização e automação de rotinas administrativas.
+- Gestão e acompanhamento de documentação para processos licitatórios, com atenção a prazos e requisitos.
+
+<details>
+  <summary><strong>Formação e cursos</strong></summary>
+
+- **Ciência da Computação — UNIP:** 2024–2028, em andamento.
+- **Técnico em Informática — Colégio Educare:** 2021–2023, concluído com honras.
+- **Inglês — Hugle Education:** Callan Method C1, formação de 2021–2023.
+- **Cisco Networking Academy:** IT Essentials, Introduction to Cybersecurity e Cybersecurity Essentials.
+- **Fundação Bradesco:** Análise de Dados com Power BI.
+- **CTA Informática:** Capacitação em Engenharia de Prompt; IA e Futuro com IA.
+- **FGV Online:** Fundamentos de Marketing.
+
+</details>
+
+## Vamos conversar?
+
+Tenho interesse em oportunidades e colaborações que envolvam **dados, automação e desenvolvimento de software**.
+
+📬 [felipe06cortez@gmail.com](mailto:felipe06cortez@gmail.com) · [LinkedIn](https://www.linkedin.com/in/felipecortez-204438237/) · [Portfólio](https://felipecortez.dev.br/)
+
+---
+
+<p align="center"><em>Aprender. Construir. Evoluir.</em></p>
