@@ -50,33 +50,7 @@ Desenvolvimento de rotinas com Python e Power Query para extrair, limpar e trans
 **Software para problemas reais**  
 Desenvolvimento e estudo de aplicações, bancos relacionais e APIs, com atenção à organização do código e à facilidade de manutenção.
 
-## Experiência
 
-**Grupo Sabedoria — Auxiliar de Logística / Análise de Dados**  
-*2026 — atual*
-
-- Desenvolvimento e manutenção de dashboards gerenciais no Power BI.
-- Construção e otimização de pipelines de ETL com Python e Power Query.
-- Mapeamento de fluxos logísticos, automação de rotinas e acompanhamento de KPIs.
-
-**Betun & Alves Advogados — Auxiliar Administrativo**  
-*2024 — 2026*
-
-- Organização e automação de rotinas administrativas.
-- Gestão e acompanhamento de documentação para processos licitatórios, com atenção a prazos e requisitos.
-
-<details>
-  <summary><strong>Formação e cursos</strong></summary>
-
-- **Ciência da Computação — UNIP:** 2024–2028, em andamento.
-- **Técnico em Informática — Colégio Educare:** 2021–2023, concluído com honras.
-- **Inglês — Hugle Education:** Callan Method C1, formação de 2021–2023.
-- **Cisco Networking Academy:** IT Essentials, Introduction to Cybersecurity e Cybersecurity Essentials.
-- **Fundação Bradesco:** Análise de Dados com Power BI.
-- **CTA Informática:** Capacitação em Engenharia de Prompt; IA e Futuro com IA.
-- **FGV Online:** Fundamentos de Marketing.
-
-</details>
 
 ## Vamos conversar?
 
