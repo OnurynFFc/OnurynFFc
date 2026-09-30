@@ -21,7 +21,7 @@ Na minha atuação no **Grupo Sabedoria**, aplico Python, SQL e Power BI a desaf
 - 🎓 Graduação em Ciência da Computação em andamento, com conclusão prevista para 2028.
 - 📊 Experiência prática com dashboards, pipelines de ETL e automação de relatórios.
 - 🌱 Aprofundando meus estudos em estatística, Machine Learning e visão computacional.
-- 💼 Em busca de oportunidade de estágio em Ciência de Dados.
+- 💼 Em busca de oportunidade de aprimorar meu conhecimento
 
 ## Arsenal técnico
 
